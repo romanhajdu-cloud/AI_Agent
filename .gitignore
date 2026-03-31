@@ -1,3 +1,4 @@
 ## Nejake nazvy ktore bude git ignorovat
 .venv
 venv
+.env
